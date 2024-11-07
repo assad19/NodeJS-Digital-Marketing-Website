@@ -25,8 +25,11 @@ jQuery - Simplified DOM manipulation and event handling.'
 ## Backend: ##
 
 Node.js - JavaScript runtime for building the backend.
+
 Express - Web framework for Node.js to manage routing and middleware.
+
 EJS (Embedded JavaScript) - Templating engine for rendering dynamic HTML pages. 
+
 
 ## Project Structure ##
 /public: Contains all static files (CSS, JavaScript, images).
