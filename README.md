@@ -47,11 +47,11 @@ Testimonials Page: Showcases client testimonials to build trust and demonstrate 
 Analytics: View insights on user interactions and engagement metrics (if integrated with analytics tools).
 
 ## Installation ##
-Clone the repository
-Navigate into the project directory
-Install dependencies: Make sure you have Node.js installed. Then, install the required npm packages:
+Clone the repository  
+Navigate into the project directory  
+Install dependencies: Make sure you have Node.js installed. Then, install the required npm packages:  
 Nodemon, ejs
-Run the project locally
+Run the project locally  
 
 
 ## License ##
